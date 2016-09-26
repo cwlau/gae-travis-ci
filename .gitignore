@@ -1,0 +1,13 @@
+# Google App Engine generated folder
+appengine-generated/
+
+
+client_secret.json
+
+
+*.py[cod]
+
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
